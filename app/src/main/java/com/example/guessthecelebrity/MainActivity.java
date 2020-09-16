@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
     int quantityOfCorrectQuestions = 0;
     int nrOfquestion = 1;
 
-
     public void answerClick(View view){
         nrOfquestion++;
         //if good toast correct, if wrong toast wrong
